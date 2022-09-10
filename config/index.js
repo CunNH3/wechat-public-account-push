@@ -19,8 +19,8 @@ export const config = {
       // 想要发送的人的名字
       name: "陆青青老婆",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-//       id: "oIT0I6jycWKI3Rjj-kacKqkchU3Q",
-      id: "oIT0I6nH_5D4ouJJFNWBkTWFDIRw",
+      id: "oIT0I6jycWKI3Rjj-kacKqkchU3Q",
+      // id: "oIT0I6nH_5D4ouJJFNWBkTWFDIRw",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "nxGnVM15euDmenqZtpW_J6OREyojZVF6z_ZVpBdG_aM",
       // 所在省份
